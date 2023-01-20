@@ -2,7 +2,7 @@
 
 
 <h1>
-1. Open "Assignment" folder.
+1. Open "Class" folder.
 </h1>
 <h2>
 2. Then Click (.java) file to see code.
